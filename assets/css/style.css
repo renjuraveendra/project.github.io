@@ -3322,6 +3322,7 @@ left: 199px;
     color: #fff!important;
 }
 .content-section .featured-item{
+    min-height: 350px;
     text-align: center;
     border: 2px solid #f7f7f7;
     border-radius: 10px;
