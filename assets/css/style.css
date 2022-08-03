@@ -1822,7 +1822,10 @@ section {
     }
 }
 
-
+.contact .php-email-form .btn-area span {
+    color: #0D6EFD;
+    margin-left: 3rem;
+}
 /*--------------------------------------------------------------
 # Blog
 --------------------------------------------------------------*/
@@ -3335,6 +3338,12 @@ left: 199px;
     position: relative;
     background-color: #fff;
     z-index: 2;
+}
+
+@media screen and (max-width: 1400px) {
+    .content-section .featured-item {
+
+    }
 }
 
 .darknew1{
